@@ -1,0 +1,116 @@
+code,description,category
+I10,Essential (primary) hypertension,Cardiovascular
+I11.9,Hypertensive heart disease without heart failure,Cardiovascular
+I16.0,Hypertensive urgency,Cardiovascular
+I21.4,Non-ST elevation (NSTEMI) myocardial infarction,Cardiovascular
+I21.9,Acute myocardial infarction unspecified,Cardiovascular
+I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,Cardiovascular
+I25.110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,Cardiovascular
+I25.119,"Atherosclerotic heart disease with angina pectoris, other",Cardiovascular
+I48.0,Paroxysmal atrial fibrillation,Cardiovascular
+I48.91,Unspecified atrial fibrillation,Cardiovascular
+I50.1,"Left ventricular failure, unspecified",Cardiovascular
+I50.20,Unspecified systolic (congestive) heart failure,Cardiovascular
+I50.21,Acute systolic (congestive) heart failure,Cardiovascular
+I50.22,Chronic systolic (congestive) heart failure,Cardiovascular
+I50.23,Acute on chronic systolic (congestive) heart failure,Cardiovascular
+I50.30,Unspecified diastolic (congestive) heart failure,Cardiovascular
+I50.31,Acute diastolic (congestive) heart failure,Cardiovascular
+I50.32,Chronic diastolic (congestive) heart failure,Cardiovascular
+I50.33,Acute on chronic diastolic (congestive) heart failure,Cardiovascular
+I50.40,Unspecified combined systolic and diastolic (congestive) heart failure,Cardiovascular
+I50.41,Acute combined systolic and diastolic (congestive) heart failure,Cardiovascular
+I50.42,Chronic combined systolic and diastolic (congestive) heart failure,Cardiovascular
+I50.43,Acute on chronic combined systolic and diastolic (congestive) heart failure,Cardiovascular
+I50.810,"Right heart failure, unspecified",Cardiovascular
+I50.811,Acute right heart failure,Cardiovascular
+I50.812,Chronic right heart failure,Cardiovascular
+I50.813,Acute on chronic right heart failure,Cardiovascular
+I50.814,Biventricular heart failure,Cardiovascular
+I50.84,End stage heart failure,Cardiovascular
+I50.89,Other heart failure,Cardiovascular
+I50.9,"Heart failure, unspecified",Cardiovascular
+I63.9,Cerebral infarction unspecified,Cardiovascular
+I73.9,Peripheral vascular disease unspecified,Cardiovascular
+E03.9,"Hypothyroidism, unspecified",Diabetes
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",Diabetes
+E10.9,Type 1 diabetes mellitus without complications,Diabetes
+E11.0,Type 2 diabetes mellitus with hyperosmolarity,Diabetes
+E11.22,Type 2 diabetes mellitus with diabetic chronic kidney disease,Diabetes
+E11.40,Type 2 diabetes mellitus with diabetic neuropathy unspecified,Diabetes
+E11.41,Type 2 diabetes mellitus with diabetic mononeuropathy,Diabetes
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,Diabetes
+E11.51,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,Diabetes
+E11.641,Type 2 diabetes mellitus with hypoglycemia with coma,Diabetes
+E11.65,Type 2 diabetes mellitus with hyperglycemia,Diabetes
+E11.9,Type 2 diabetes mellitus without complications,Diabetes
+O24.419,"Gestational diabetes mellitus in pregnancy, unspecified control",Diabetes
+R73.09,Other abnormal glucose (postpartum follow-up),Diabetes
+K21.0,Gastro-esophageal reflux disease with esophagitis,Gastrointestinal
+K25.9,Gastric ulcer unspecified as acute or chronic without hemorrhage or perforation,Gastrointestinal
+K50.012,Crohn's disease of small intestine with intestinal obstruction,Gastrointestinal
+K50.90,"Crohn's disease, unspecified, without complications",Gastrointestinal
+K51.90,"Ulcerative colitis, unspecified, without complications",Gastrointestinal
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,Gastrointestinal
+K57.32,Diverticulitis of large intestine without perforation or abscess without bleeding,Gastrointestinal
+K70.30,Alcoholic cirrhosis of liver without ascites,Gastrointestinal
+K80.00,Calculus of gallbladder with acute cholecystitis without obstruction,Gastrointestinal
+K80.20,Calculus of gallbladder without cholecystitis without obstruction,Gastrointestinal
+K92.1,Melena,Gastrointestinal
+E86.0,Dehydration,General Medicine
+Z79.01,Long-term current use of anticoagulants,History
+Z87.891,Personal history of nicotine dependence,History
+A41.9,"Sepsis, unspecified organism",Infectious Disease
+L03.116,Cellulitis of left lower limb,Infectious Disease
+R65.20,Severe sepsis without septic shock,Infectious Disease
+U07.1,COVID-19,Infectious Disease
+F10.20,Alcohol dependence uncomplicated,Mental Health
+F20.9,Schizophrenia unspecified,Mental Health
+F31.2,"Bipolar disorder, current episode manic severe with psychotic features",Mental Health
+F31.9,"Bipolar disorder, unspecified",Mental Health
+F32.9,Major depressive disorder single episode unspecified,Mental Health
+F33.1,"Major depressive disorder, recurrent, moderate",Mental Health
+F41.1,Generalized anxiety disorder,Mental Health
+F43.12,"Post-traumatic stress disorder, chronic",Mental Health
+G56.01,"Carpal tunnel syndrome, right upper limb",Musculoskeletal
+M06.9,Rheumatoid arthritis unspecified,Musculoskeletal
+M17.0,Bilateral primary osteoarthritis of knee,Musculoskeletal
+M17.11,Primary osteoarthritis right knee,Musculoskeletal
+M48.06,Spinal stenosis lumbar region,Musculoskeletal
+M51.16,"Intervertebral disc disorders with radiculopathy, lumbar region",Musculoskeletal
+M54.5,Low back pain,Musculoskeletal
+M54.50,"Low back pain, unspecified",Musculoskeletal
+M75.121,"Complete rotator cuff tear of right shoulder, non-traumatic",Musculoskeletal
+M79.3,Panniculitis unspecified,Musculoskeletal
+S52.301A,"Unspecified fracture of shaft of right radius, initial encounter",Musculoskeletal
+G20,Parkinson's disease,Neurological
+G35,Multiple sclerosis,Neurological
+G40.209,"Localization-related symptomatic epilepsy, not intractable",Neurological
+G40.909,Epilepsy unspecified not intractable without status epilepticus,Neurological
+G43.119,"Migraine with aura, intractable, without status migrainosus",Neurological
+G43.909,Migraine unspecified not intractable without status migrainosus,Neurological
+G45.9,"Transient cerebral ischemic attack, unspecified",Neurological
+I63.512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Neurological
+C18.9,Malignant neoplasm of colon unspecified,Oncology
+C34.90,Malignant neoplasm of unspecified part of unspecified bronchus and lung,Oncology
+C50.411,Malignant neoplasm of upper-outer quadrant of right female breast,Oncology
+C50.911,Malignant neoplasm of unspecified site of right female breast,Oncology
+C61,Malignant neoplasm of prostate,Oncology
+C78.00,Secondary malignant neoplasm of unspecified lung,Oncology
+Z00.00,Encounter for general adult medical examination without abnormal findings,Preventive
+Z23,Encounter for immunization,Preventive
+N18.3,Chronic kidney disease stage 3,Renal
+N18.4,"Chronic kidney disease, stage 4 (severe)",Renal
+N18.6,End stage renal disease,Renal
+N20.0,Calculus of kidney,Renal
+N39.0,Urinary tract infection site not specified,Renal
+J06.9,Acute upper respiratory infection unspecified,Respiratory
+J18.9,Pneumonia unspecified organism,Respiratory
+J20.9,"Acute bronchitis, unspecified",Respiratory
+J22,Unspecified acute lower respiratory infection,Respiratory
+J44.1,Chronic obstructive pulmonary disease with acute exacerbation,Respiratory
+J45.20,"Mild intermittent asthma, uncomplicated",Respiratory
+J45.51,Severe persistent asthma with (acute) exacerbation,Respiratory
+J45.901,Unspecified asthma with acute exacerbation,Respiratory
+J96.00,Acute respiratory failure unspecified whether with hypoxia or hypercapnia,Respiratory
+J96.11,Chronic respiratory failure with hypoxia,Respiratory
